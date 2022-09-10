@@ -1,2 +1,2 @@
-It was made to smuggle contraband across borders, and to evade even the best scanners the police had at their disposal. It can be filled with a wide variety of items. Ammo, drugs, illegally modified guns and body mods to name a few. 
-You have no idea how it works, who pre-loaded it, or what's inside. All you know is that one click, and whatever is inside it gets transported to your gang headquarters.
+Он был создан для контрабанды через границы и для обхода даже самых лучших сканеров, которые были в распоряжении полиции. Его можно наполнить самыми разнообразными предметами. Боеприпасы, наркотики, незаконно модифицированное оружие и модификации тела, и это лишь некоторые из них.
+Вы понятия не имеете, как он работает, кто его предварительно загрузил или что внутри. Все, что вы знаете, это то, что один щелчок, и все, что внутри, переносится в штаб-квартиру вашей банды.
